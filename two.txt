@@ -6,3 +6,6 @@ i am going to make a feature branch  and do the following over there:
 - make another file by the name of "three.txt"
 - update it
 - merge it into the master branch
+
+Hi i am about to make a merge conflict.
+this is from make-a-pull-request branch
