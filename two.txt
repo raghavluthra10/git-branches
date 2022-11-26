@@ -8,4 +8,4 @@ i am going to make a feature branch  and do the following over there:
 - merge it into the master branch
 
 Hi i am about to make a merge conflict.
-this is from make-a-pull-request branch
+this is from master branch
