@@ -9,3 +9,5 @@ i am going to make a feature branch  and do the following over there:
 
 Hi i am about to make a merge conflict.
 this is from master branch
+
+this is two again
